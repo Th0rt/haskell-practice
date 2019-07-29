@@ -1,0 +1,5 @@
+haskell:
+  image: haskell:latest
+  volumes:
+    - ./code:/code
+  tty: True
